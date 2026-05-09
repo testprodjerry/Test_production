@@ -1,0 +1,5 @@
+models:
+  - user_model:
+    name: test
+    pass: test
+
