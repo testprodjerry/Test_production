@@ -2,4 +2,7 @@ models:
   - user_model:
     name: test
     pass: test
+  - db_model:
+    schema: sql
+    entries: 30
 
